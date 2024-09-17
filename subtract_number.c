@@ -1,4 +1,5 @@
 WAP to subtract a number from another number and display the result.
+   
 #include<stdio.h>
 int main()
 {
