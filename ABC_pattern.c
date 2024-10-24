@@ -1,4 +1,5 @@
 WAP to print the following pattern for n rows. Ex. for n=5 rows
+    
 A
 A B
 A B C
