@@ -1,4 +1,5 @@
 WAP to test whether a number entered through keyboard is ODD or EVEN.
+    
 #include <stdio.h>
 int main()
 {
