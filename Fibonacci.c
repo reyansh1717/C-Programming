@@ -1,4 +1,6 @@
 WAP to find the first n numbers of a Fibonacci sequence.
+
+
 #include<stdio.h>
 int main()
 {
