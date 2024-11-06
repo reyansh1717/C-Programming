@@ -1,6 +1,5 @@
 WAP to display the grade system of KIIT University based on total marks secured by a
 student in a semester. Use else..if ladder statement.
-
     
 #include<stdio.h>
 int main()
