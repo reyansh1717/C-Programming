@@ -1,4 +1,5 @@
 WAP to display the array elements in ascending order.
+
 #include<stdio.h>
 void main()
 {
