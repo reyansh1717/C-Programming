@@ -1,5 +1,6 @@
 WAP to display the grade system of KIIT University based on total marks secured by a
 student in a semester. Use switch-case statement.
+    
 The grade is calculated is as follows:
 Marks Grade
 90 to 100 O
