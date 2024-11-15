@@ -1,5 +1,6 @@
 WAP to find the average mark of 5 subjects of a student and find the percentage. Assume full
 mark of each subject is 100.
+
 #include<stdio.h>
 int main()
 {
