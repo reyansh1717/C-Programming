@@ -1,4 +1,5 @@
 WAP to input 10 integers into an array of size 10. Print all elements.
+
 #include<stdio.h>
 int main()
 {
