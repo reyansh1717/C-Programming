@@ -1,4 +1,4 @@
- WAP to add two times in hour, minitue & second format entered through the keyboard in the
+WAP to add two times in hour, minitue & second format entered through the keyboard in the
 format hh:mm:ss
 #include<stdio.h>
 int main()
