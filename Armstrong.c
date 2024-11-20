@@ -1,4 +1,5 @@
 WAP to check whether an integer number is a Armstrong number or not!.
+    
 #include <stdio.h>
 int main() {
     int num, originalNum, remainder, result = 0;
