@@ -1,4 +1,5 @@
 WAP to find the GCD/HCF of two numbers.
+
 #include<stdio.h>
 int main()
 {
