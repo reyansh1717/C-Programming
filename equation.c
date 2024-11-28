@@ -1,4 +1,5 @@
 WAP to evaluate the equation y=xn where n is a non-negative integer.
+    
 #include <stdio.h>
 int main()
 {
