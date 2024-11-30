@@ -1,4 +1,5 @@
-4 WAP to determine whether a year entered through the keyboard is a leap year or not.
+WAP to determine whether a year entered through the keyboard is a leap year or not.
+
 #include<stdio.h>
 void leap(int year);
 void main()
