@@ -1,4 +1,5 @@
 WAP to input any two integers distinct and display the greater of two integers.
+
 #include<stdio.h>
 int main()
 {
