@@ -1,4 +1,5 @@
 WAP to calculate the sum of digits of a given number.
+
 #include<stdio.h>
 int main()
 {
