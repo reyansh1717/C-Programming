@@ -1,5 +1,6 @@
 WAP to input any two integers, and provide a menu to the user to select any of the options as
 add, subtract, multiply, divide and display the result accordingly.
+
 #include<stdio.h>
 int add(int n1, int n2);
 int subtract(int n1, int n2);
