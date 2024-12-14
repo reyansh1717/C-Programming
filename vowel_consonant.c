@@ -1,5 +1,6 @@
 WAP to read a character from the user and test it whether it a vowel or consonant or not an
 alphabet.
+
 #include <stdio.h>
 #include <ctype.h>
 int main()
