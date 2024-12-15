@@ -1,4 +1,5 @@
 WAP swap the contents of two variables by using a single statement for swap in C.
+
 #include<stdio.h>
 int main()
 {
