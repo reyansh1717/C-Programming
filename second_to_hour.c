@@ -1,5 +1,6 @@
 WAP to convert given second into its equivalent hour, minute and second as per the following
 format. Example. 7560 second = 2 Hour, 27 Minute and 40 Second
+
 #include<stdio.h>
 int main()
 {
