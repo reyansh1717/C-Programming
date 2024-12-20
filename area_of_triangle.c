@@ -1,4 +1,5 @@
 WAP to calculate area of a triangle whose base and height is given.
+
 #include<stdio.h>
 int main()
 {
