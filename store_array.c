@@ -1,5 +1,5 @@
-WAP to store max. 100 numbers into an array. Print all the elements that are three digit even
-integers.
+WAP to store max. 100 numbers into an array. Print all the elements that are three digit even integers.
+
 #include<stdio.h>
 int main()
 {
