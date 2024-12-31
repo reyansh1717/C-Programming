@@ -1,4 +1,5 @@
 WAP to display the reverse of a number entered through keyboard.
+
 #include <stdio.h>
 int main() {
     int n, rev = 0, remainder;
