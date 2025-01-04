@@ -1,5 +1,5 @@
-WAP to swap first element with last, second element with second last and so on, stored in an
-array.
+WAP to swap first element with last, second element with second last and so on, stored in an array.
+
 #include<stdio.h>
 int main()
 {
