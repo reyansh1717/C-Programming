@@ -1,4 +1,5 @@
 WAP to input any three integers distinct and display the greater of three integers.
+
 #include<stdio.h>
 int main()
 {
