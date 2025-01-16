@@ -1,4 +1,5 @@
 WAP to find out the sum of the diagonal elements of a matrix.
+
 #include<stdio.h>
 int main()
 {
