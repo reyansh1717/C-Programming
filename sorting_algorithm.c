@@ -1,4 +1,5 @@
 WAP to sort 3 elements stored in an array without using any sorting algorithm.
+
 #include<stdio.h>
 int main()
 {
