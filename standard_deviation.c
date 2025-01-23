@@ -1,4 +1,5 @@
 WAP to find the standard deviation of a list of numbers.
+
 #include<stdio.h>
 #include<math.h>
 int main()
