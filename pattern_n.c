@@ -6,7 +6,8 @@ WAP to print the following pattern for n rows. Ex. for n=6 rows.
 1 0 1 0 1
 0 1 0 1 0 1
 
-LA4.1 WAP to print your name 5 times using while loop.
+WAP to print your name 5 times using while loop.
+    
 #include<stdio.h>
 int main()
 {
