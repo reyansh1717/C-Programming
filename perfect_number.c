@@ -1,4 +1,5 @@
 WAP to check whether an input integer is perfect number or not.
+
 #include<stdio.h>
 int main()
 {
