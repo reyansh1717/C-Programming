@@ -1,4 +1,5 @@
 WAP to check whether a given matrix is symmetric or not.
+
 #include<stdio.h>
 int main()
 {
