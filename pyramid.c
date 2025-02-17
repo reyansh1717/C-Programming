@@ -3,6 +3,7 @@ WAP to form a pyramid of numbers for a given number. Ex. for number 4
     1 2 1
   1 2 3 2 1
 1 2 3 4 3 2 1
+
 #include<stdio.h>
 int main()
 {
